@@ -15,6 +15,5 @@ public class Main {
         System.out.println(product1 + " " + producer1 + " " + price1 + "zł");
         System.out.println(product2 + " " + producer2 + " " + price2 + "zł");
 
-
     }
 }
